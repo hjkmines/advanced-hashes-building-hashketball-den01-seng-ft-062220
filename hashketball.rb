@@ -35,6 +35,9 @@ home_player_3_stats = bottom_level.zip(home_player_3).to_h
 home_player_4_stats = bottom_level.zip(home_player_4).to_h
 home_player_5_stats = bottom_level.zip(home_player_5).to_h
 
+binding.pry 
+
+
 home_players_array.push(home_player_1_stats, home_player_2_stats, home_player_3_stats, home_player_4_stats, home_player_5_stats)
 
 #away players stats
